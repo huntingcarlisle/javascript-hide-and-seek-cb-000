@@ -14,6 +14,7 @@ function deepestChild() {
   return lastChild[lastChild.length - 1]
 }
 
+<<<<<<< HEAD
 function increaseRankBy(n) {
   let ranked = document.querySelectorAll('.ranked-list li')
   for (let i = 0; i < ranked.length; i++) {
@@ -21,3 +22,6 @@ function increaseRankBy(n) {
   }
   
 }
+=======
+function
+>>>>>>> eb559517dd77b30643cbb9f00178b0d0d7c38013
